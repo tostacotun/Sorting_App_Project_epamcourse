@@ -1,3 +1,5 @@
+package com.sorting_app;
+
 import java.util.Arrays;
 
 public class Sorting {

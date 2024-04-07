@@ -1,3 +1,5 @@
+package com.sorting_app.tests;
+
 import com.sorting_app.Sorting;
 import org.junit.Test;
 
@@ -19,7 +21,7 @@ public class TestSortingTest {
         int[] sortedArray = sorting.getArreglo();
 
         // Verify that the sorted array is correctly sorted
-        int[] expectedArray = {10, 2, 3, 4, 5, 6, 7, 8, 10};
+        int[] expectedArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         assertArrayEquals(expectedArray, sortedArray);
     }
 }

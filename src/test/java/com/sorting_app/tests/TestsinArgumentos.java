@@ -1,3 +1,5 @@
+package com.sorting_app.tests;
+
 import com.sorting_app.SortingApp;
 import org.junit.Test;
 

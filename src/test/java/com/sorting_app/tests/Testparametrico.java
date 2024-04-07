@@ -1,3 +1,5 @@
+package com.sorting_app.tests;
+
 import com.sorting_app.Sorting;
 import org.junit.Test;
 import org.junit.runner.RunWith;
